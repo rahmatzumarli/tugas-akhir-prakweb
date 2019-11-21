@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(/image/background.png.jpg);
+}
+
+.container {
+    padding: 15%;
+
+}
+
+#card-login {
+    float: none;
+    margin: 0 auto;
+    width: 25rem;
+}
+
+#cardIndex{
+    float: none;
+    margin: 0 auto;
+    width: 25rem;
+}
+
+div.container.container-index {
+    text-align: center;
+}
+
+nav.navbar {
+    height: 100px;
+}
